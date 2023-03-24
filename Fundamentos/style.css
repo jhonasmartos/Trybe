@@ -1,7 +1,15 @@
       body{
-        background-color: lightslategrey;
+        background-color: lightcyan;
       }
       p{
         font-family: serif;
       }
     
+      .paragrafo {
+        background-color: lightcyan;
+        width: 50%;
+        height: 100px;
+        overflow: auto;
+        
+      }
+      
