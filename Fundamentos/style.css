@@ -1,8 +1,15 @@
+      h1{
+        width: 3000;
+      }
+      img{
+        width: auto;
+      }
       body{
         background-color: lightcyan;
       }
       p{
         font-family: serif;
+        width: auto;
       }
     
       .paragrafo {
@@ -12,4 +19,11 @@
         overflow: auto;
         
       }
+      .titulos{
+        font-style: italic;
+      }
+      .nome{
+        font-style: italic;
+      }
+      
       
